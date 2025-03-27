@@ -63,3 +63,6 @@ Key Features and Functionalities:
 •	Basemap Integration: Contextily's basemap provides a geographical reference for better understanding of the data locations in relation to the world map. 
 Conclusion
 This script provides a robust tool for geospatial data analysis using EMODnet datasets. It allows users to explore and filter datasets on submarine cables, offshore wind farms, and coastline features in an interactive way. The ability to select specific regions of interest, visualize multiple datasets, and export the filtered data makes this tool valuable for various applications, including marine spatial planning, infrastructure development, environmental studies, and resource management. By leveraging EMODnet's rich datasets, users can gain better insights into the spatial distribution and relationships of different marine and coastal features.
+
+For OPENCPN 
+First the user need to download data from EMODnet, then using QGIS Free Graphical Interface software convert .shp file that is my study output file, to GPX file then just place the .gpx file in the correct directory and load it into OpenCPN.
